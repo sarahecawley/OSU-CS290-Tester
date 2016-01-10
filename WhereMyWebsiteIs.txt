@@ -1,0 +1,1 @@
+My node.js is hosted at http://52.25.195.38:3000/ I will not loose this information and have to go to Amazon webservices and look it up, that would be a silly thing for me to do!
